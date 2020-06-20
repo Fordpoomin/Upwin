@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Mitr&display=swap');
+* {
+    font-family: 'Mitr', sans-serif;
+}
+
+.bg-violet {
+    background-color: blueviolet !important;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+
+.card {
+    background-color: blueviolet;
+    color: #fff;
+    border-radius: 50px !important;
+    box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+}
+
+button {
+    border-radius: 50px !important;
+    background-color: blueviolet !important;
+    color: #fff;
+}
+
+h4 {
+    font-size: 20px !important;
+}
+
+h2 {
+    font-size: 20px !important;
+}
